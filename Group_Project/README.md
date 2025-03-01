@@ -44,7 +44,7 @@ The dataset used in this project is sourced from **Kaggle**.
 - Use the trained model to predict the town based on new property details
 
 ## Contributors
-- Group 3
+- Group 3 Data Science, World IDEAS programme @ Unnicon Institute of Technology - Abuja, Nigeria.
 
 ## License
 This project is licensed under the MIT License.
